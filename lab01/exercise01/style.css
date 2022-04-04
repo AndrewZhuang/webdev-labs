@@ -8,8 +8,10 @@ body {
 
 .page-section {
     box-sizing: border-box;
-    border: dotted 1px #CCC;  
+    border: solid 1px rgb(0, 0, 0);  
     width: 500px;
+
+    
     /*
     Alternative syntax:
     padding-top: 10px;
@@ -27,6 +29,10 @@ body {
     */
 }
 
-.nonimage-section {
-    padding: 10px;
+.page-section p, h2{
+    padding:10px;
 }
+
+
+
+
