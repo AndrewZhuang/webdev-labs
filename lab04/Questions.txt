@@ -1,0 +1,6 @@
+SQL Alchemy allows programmers to execute queries through Python using Python class models instead of actual SQL.
+
+A model is a way of representing a SQL table entry within Python. Using the model, you can create new SQL entries
+and turn them into JSON formats.
+
+A view is a way of receiving client-side requests and turn the input data into a form that the model can use for queries.
